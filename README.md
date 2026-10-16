@@ -50,8 +50,8 @@ Pré-requisitos: Python 3.10+, Docker e Git.
 
 ```bash
 # 1. Clonar o repositório
-git clone URL_DO_SEU_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/Luc14saro/Lucas-Araujo-Saro-bigdatafecaf.git
+cd Lucas-Araujo-Saro-bigdatafecaf
 
 # 2. Ambiente virtual e dependências
 python -m venv .venv
@@ -123,7 +123,7 @@ git config --global user.email "seu.email@exemplo.com"
 git init
 git add .
 git commit -m "Projeto inicial: Pipeline de Dados IoT"
-git remote add origin URL_DO_SEU_REPOSITORIO
+git remote add origin https://github.com/Luc14saro/Lucas-Araujo-Saro-bigdatafecaf.git
 git push -u origin main
 
 git pull        # atualizar o repositório local com o remoto
@@ -131,4 +131,4 @@ git pull        # atualizar o repositório local com o remoto
 
 ## Autor
 
-Lucas: UniFECAF, Análise e Desenvolvimento de Sistemas (RA 127714)
+Lucas Araujo Saro: UniFECAF, Análise e Desenvolvimento de Sistemas (RA 127714)

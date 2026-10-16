@@ -160,7 +160,7 @@ endobj
 endobj
 21 0 obj
 <<
-/Author (Lucas) /CreationDate (D:20261015222153-03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261015222153-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Lucas Araujo Saro) /CreationDate (D:20261015223802-03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261015223802-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (Pipeline de Dados com IoT e Docker) /Trapped /False
 >>
 endobj
@@ -171,10 +171,10 @@ endobj
 endobj
 23 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 666
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 651
 >>
 stream
-Gat=gDf=>`&B<W!.IJLOL?nHG`4QH]2RKL?BUCW9^-KN0hFI]>i:G8)JO3>EC5J0'n_N6_F*C*Hm`,*kU]?#aDT2t'+T;ZqLk,717WE(qBi[R8TS[F_'1l%OK_E#[q#kN`V'8MfNPG^k-j'cq$Jd@YA(EOoYV\%=/FsL;4G??JKDWrXhkkoFbVD7$h+$FK&H@@W^#/EdQj/4A'srYW>i<b:$c'*UYKk'@:U(*pBgM$s,eXg%YZ&?G6`Aqa"!F-!O:#W%+9niWQU6aYOIIs,-@EWHoCZQ9@5JB[(D&7Wir;R,]?IA$]M:!IS<bUJ3SN&r9e-^XY3f?#?$]W6PR+9W"$<l$Z.i6$D]gNmB3Ue"g(gLOHf,DgYUen1=uc.GFMbcAp^8u0'"Z>k2*i^;>i/k^o9u4I:/L.dT*,+OTBg'=DRA83GouHtaeGlA4Z=U:coP]sokDp"#9jFMS0E9^lU36TRulB1;*(*no96YlV=?,oV9/H,H>c`G<OqShUFe![0$78X\edCnVZ5I]acQiTeCA"7/PcDLC8(@O6DqUFqi>JdbpG)\2<Ti5f(lH,rKJC%]0@Y:O/(rM$?q^2cS0`sO-B@fD",rm*Oi!G8g4ir*Y6/t3L=c#EnK"oH%(D<pP2m6)iU@pL5i_e&U6<Pd.mc]H6HJ~>endstream
+Gat%_9lo#B&;KZOMERi->1Q<OCiaY]R)r#3D;sDmEJsmofETO]pNL0W"WI4<1O)0sX64og"bG,ALX37-\BQ1e+eX@5!N;B;r!=G8a`]G2,lSotHMj=&*)hi9q.uD3!QXGeAi^YUJlI\='M"6dE:_UtbhCVPjp(73H/kQ6.X5cMT^PVN_mBujpY*n6m]tLnaPS0@m-d%Wb[\Z'N\:UO8qfoB(P!lMhak\Z:Q#fUVhtq3ATagl(<;$oKQ/;8`kWiq'<Xm/6B(Sk>Rl>S+Q6"E:u3lL]O)jkJgX,V"o8('oH3:Lo?KYGa0ZGMdL&]%U:keXd],G]`K!=PObZBIRGqD0YkQ_VrMHn_"'Jj2ChLnnDiL64i%K%bQ_^<*#lQJ>@\;!A"#an[d,ikGLid_uhk$UdJK628aQG;5Zfh@bkIM+APHF_nRDMm0(64%_rHeW"7GA4`]ETgQ`$@KVp7+kAcOn3rNYMS3!)%GQN?rdslY'g0q^l&WB7-5hR<mJdGIB8LfD*9kXQrPK\,O,%5sbZBqY.KEM+hW[Y8`8p=Kq`HF@FBtjl)s61%*_2)J?Z`WF]j:m_J6,Ic#IXlFMtEL>gR(X8\++AqsnP.S&WUKAFB#m_IQt]\2D:en8F6@WAd6S8P\7-9hP%E?.R~>endstream
 endobj
 24 0 obj
 <<
@@ -235,17 +235,17 @@ xref
 0000192270 00000 n 
 0000192476 00000 n 
 0000192546 00000 n 
-0000192840 00000 n 
-0000192934 00000 n 
-0000193691 00000 n 
-0000196192 00000 n 
-0000197505 00000 n 
-0000199061 00000 n 
-0000200151 00000 n 
+0000192852 00000 n 
+0000192946 00000 n 
+0000193688 00000 n 
+0000196189 00000 n 
+0000197502 00000 n 
+0000199058 00000 n 
+0000200148 00000 n 
 trailer
 <<
 /ID 
-[<0a7901d7b063b2d0cc3fbc38a2ebe576><0a7901d7b063b2d0cc3fbc38a2ebe576>]
+[<d4fe9a5e1e122d891327ebe17b2b7f94><d4fe9a5e1e122d891327ebe17b2b7f94>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 21 0 R
@@ -253,5 +253,5 @@ trailer
 /Size 29
 >>
 startxref
-202300
+202297
 %%EOF
